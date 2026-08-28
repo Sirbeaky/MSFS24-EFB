@@ -1,23 +1,23 @@
 {
   "content": [
     {
-      "path": "contentinfo/mycompany-efb-templateapp/thumbnail.jpg",
+      "path": "ContentInfo/mycompany-efb-templateapp/Thumbnail.jpg",
       "size": 5446,
       "date": 134200904250000000
     },
     {
-      "path": "html_ui/efb_ui/efb_apps/enginelogbookapp/assets/app-icon.svg",
+      "path": "html_ui/efb_ui/efb_apps/EngineLogbookApp/Assets/app-icon.svg",
       "size": 989,
       "date": 134323309920000000
     },
     {
-      "path": "html_ui/efb_ui/efb_apps/enginelogbookapp/templateapp.js",
-      "size": 74270,
+      "path": "html_ui/efb_ui/efb_apps/EngineLogbookApp/TemplateApp.js",
+      "size": 75820,
       "date": 134323309920000000
     },
     {
-      "path": "html_ui/efb_ui/efb_apps/enginelogbookapp/templateapp.js.map",
-      "size": 127804,
+      "path": "html_ui/efb_ui/efb_apps/EngineLogbookApp/TemplateApp.js.map",
+      "size": 127811,
       "date": 134323309920000000
     }
   ]
