@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/mycompany-efb-templateapp/thumbnail.jpg",
+      "size": 5446,
+      "date": 134200904250000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/enginelogbookapp/assets/app-icon.svg",
+      "size": 989,
+      "date": 134323309920000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/enginelogbookapp/templateapp.js",
+      "size": 74270,
+      "date": 134323309920000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/enginelogbookapp/templateapp.js.map",
+      "size": 127804,
+      "date": 134323309920000000
+    }
+  ]
+}
